@@ -94,7 +94,8 @@
     width: 100%;
     box-shadow: 0 100px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
-    background: #000000;  
+    background: #000000; 
+    color: white;
 
 
   }
@@ -147,7 +148,7 @@
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: black;
+    color: white;
     font-family: monospace;
     
 
@@ -174,6 +175,7 @@
     border-color:red ;
     font-style: italic;
     font-style: #000000;
+    color: white;
   }
   
   @media (max-width: 28.75em) {
